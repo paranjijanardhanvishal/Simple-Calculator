@@ -1,0 +1,29 @@
+# Contributing to Simple Interest Calculator
+
+First off, thank you for considering contributing to the Simple Interest Calculator project! It's people like you that make the open-source community such a great place to learn, inspire, and create.
+
+## How Can I Contribute?
+
+### Reporting Bugs
+- Ensure the bug was not already reported by searching on GitHub under Issues.
+- If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+
+### Suggesting Enhancements
+- Open a new issue with a clear title and description of the suggested enhancement.
+- Explain why this enhancement would be useful to most users.
+
+### Pull Requests
+1. Fork the repo and create your branch from `main`.
+2. If you've added code that should be tested, add tests.
+3. If you've changed APIs, update the documentation.
+4. Ensure the test suite passes.
+5. Make sure your code lints.
+6. Issue that pull request!
+
+## Code Style
+- Use 2 spaces for indentation.
+- Follow general HTML/CSS/JS best practices.
+- Add comments to explain complex or non-obvious logic.
+
+## License
+By contributing, you agree that your contributions will be licensed under its Apache 2.0 License.
